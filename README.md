@@ -1,8 +1,10 @@
 ### Hey, Im Jeamar 👋
 
-I work mostly on Front-End development :thumbsup:, 
-I also have very basic background with Back-End and Mobile development.
-If you have questions abpit FE, Vue and javascript, Im your guy :computer: :coffee: 
+I work mostly on Front-End development :thumbsup:, If you have questions abpit FE, Vue and javascript, Im your guy :computer: :coffee: 
+
+
+I also have very basic background with Back-End and Mobile development, mostly on personal stuff.
+
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jeamar123&show_icons=true&count_private=true&theme=vue-dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
