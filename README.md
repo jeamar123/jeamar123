@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi I'm Jeamar
+
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jkpz10&show_icons=true&count_private=true&theme=vue-dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkpz10&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **jeamar123/jeamar123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
