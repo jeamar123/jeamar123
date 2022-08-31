@@ -1,6 +1,6 @@
 ### Hey, Im Jeamar 👋
 
-I work mostly on Front-End development :thumbsup:, If you have questions about FE, Vue and javascript, Im your guy :computer: :coffee: 
+I work mostly on Front-End development  :thumbsup:, If you have questions about FE, Vue and javascript, Im your guy  :computer: :coffee: 
 
 
 I also have very basic background with Back-End and Mobile development, mostly on personal stuff.
